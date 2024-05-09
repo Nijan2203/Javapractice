@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author nijantht
+ *
+ */
+module JavaProjectPractice {
+}
